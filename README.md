@@ -1,2 +1,2 @@
-# crypt
+# encryption
 湘潭大学软件工程信息与网络安全资料
